@@ -1,4 +1,4 @@
-# Hi, I'm Ken Kipkirui Tuei 👋  
+# Hi, I'm Ken Tuei 👋  
 
 ### Software Engineer | Backend-Focused Full-Stack Developer | Systems Builder  
 

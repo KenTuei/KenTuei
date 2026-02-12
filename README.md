@@ -1,6 +1,6 @@
 # Hi, I'm Ken Tuei 👋  
 
-### Software Engineer | Backend-Focused Full-Stack Developer | Systems Builder  
+### Software Engineer | Full-Stack Developer | Systems Builder  
 
 I design and build secure, scalable software systems that solve real-world problems.
 

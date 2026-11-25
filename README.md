@@ -1,101 +1,96 @@
-# Hi, I'm Ken Tuei 👋  
 
-### Software Engineer | Full-Stack Developer | Systems Builder  
+# Hi, I'm Ken Tuei 👋
 
-I design and build secure, scalable software systems that solve real-world problems.
+### Software Developer | Full-Stack Development | Systems Engineering
 
-With a strong foundation in both Business and Technology, I approach software engineering beyond just writing code — I think in terms of architecture, performance, maintainability, and product impact.
+I build software solutions that address real-world problems, combining technical knowledge with a practical understanding of business needs.
 
-I am passionate about building technology that empowers users, strengthens digital ecosystems, and scales reliably in production environments.
+With a background in Business and Information Technology, I approach software development beyond writing code. I value thoughtful architecture, maintainable code, efficient data management, system integration, and meaningful product outcomes.
+
+I'm passionate about technology, continuous learning, and developing reliable software that improves how people and businesses operate.
 
 ---
 
 ## 🧠 Developer Philosophy
 
-I believe great software is:
+I believe great software should be:
 
-- Secure by design  
-- Structured for scale  
-- Clean and maintainable  
-- Performance-aware  
-- Business-aligned  
+- **Secure by design** – Protecting data and prioritizing responsible development.
+- **Well-structured** – Built with clarity, organization, and maintainability in mind.
+- **Scalable** – Designed to accommodate growth and evolving requirements.
+- **Performance-conscious** – Efficient in execution and resource utilization.
+- **Business-aligned** – Focused on solving actual problems and delivering value.
 
-I don’t just build features — I design systems.
-
----
-
-## 🚀 Current Projects
-
-### 🏠 Maskani  
-Modern housing and real estate platform.  
-- Scalable React frontend architecture  
-- Clean component structure & routing  
-- State management using Zustand  
-- Responsive UI using Tailwind CSS  
-
-### 🌍 Casa Africa  
-Contributing to technology that empowers the African tech ecosystem.
-
-### 📁 Backend Engineering Projects  
-- RESTful API development with Flask  
-- Database schema design & normalization  
-- Authentication systems (JWT, protected routes)  
-- CLI-based backend tools  
-- SQLAlchemy ORM integrations  
+I believe software development is about more than implementing features; it's about understanding problems, designing solutions, and building systems that work.
 
 ---
 
 ## 🛠 Technical Stack
 
-### Languages  
-Python • JavaScript • SQL  
+### Programming Languages
+Python • JavaScript • TypeScript • SQL
 
-### Backend Engineering  
-Flask • Django • REST APIs • SQLAlchemy • Authentication Systems • OOP  
+### Backend Development
+Flask • Django • Node.js • REST APIs • SQLAlchemy • Authentication & Authorization • Object-Oriented Programming
 
-### Frontend Engineering  
-React • Zustand • Tailwind CSS • Vite • Responsive Design  
+### Frontend Development
+React • Zustand • Tailwind CSS • Vite • Responsive Web Design
 
-### Databases  
-SQLite • MySQL  
+### Databases
+PostgreSQL • MySQL • SQLite • MongoDB
 
-### DevOps & Tools  
-Git • GitHub • Docker • AWS • Linux  
+### DevOps & Development Tools
+Git • GitHub • Docker • AWS • Linux • Postman
 
-### Testing & Practices  
-PyTest • Clean Code Principles • Modular Architecture • Agile (Scrum)  
+### Engineering Practices
+PyTest • Clean Code • Modular Architecture • Database Design • API Integration • Agile Methodologies (Scrum)
 
 ---
 
 ## 🏗 Engineering Approach
 
-✔ Clear separation of concerns  
-✔ Scalable project structure  
-✔ Database-first thinking  
-✔ API-driven development  
-✔ Reusable components  
-✔ Production-ready mindset  
+✔ Separation of concerns and modular development  
+✔ Structured and maintainable codebases  
+✔ Thoughtful database design and data modeling  
+✔ API-driven application development  
+✔ Reusable components and consistent architecture  
+✔ Security-conscious development practices  
+✔ Continuous testing, debugging, and improvement  
 
 ---
 
 ## 💼 What I Bring to a Team
 
-- Strong backend logic and data modeling skills  
-- Ability to design and implement scalable APIs  
-- Clean, readable, maintainable code  
-- Business-aware problem solving  
-- Ownership mentality and accountability  
-- Continuous improvement mindset  
+- Practical problem-solving and analytical thinking.
+- Understanding of both business requirements and technical implementation.
+- Ability to develop frontend interfaces and backend services.
+- Experience working with databases, APIs, and application integrations.
+- Commitment to writing clean, understandable, and maintainable code.
+- Adaptability, accountability, and willingness to learn.
+- A collaborative approach to development and continuous improvement.
 
 ---
 
-## 🌍 Long-Term Vision
+## 🌍 Professional Interests
 
-To become a highly competent systems engineer capable of designing resilient, scalable software infrastructure that serves emerging markets and scales globally.
+- Software Architecture & System Design
+- Full-Stack Application Development
+- Backend Engineering & API Development
+- Database Engineering & Data Management
+- Cloud Computing & Infrastructure
+- Business Process Automation
+- Financial Technology & Digital Solutions
+- Artificial Intelligence and Emerging Technologies
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KenTuei&show_icons=true&theme=vision-friendly-dark" />
@@ -109,11 +104,11 @@ To become a highly competent systems engineer capable of designing resilient, sc
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: https://kentuei-portfolio.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/ken-kipkirui-tuei-2965271b8  
-📧 Email: kentuei05@gmail.com  
-📍 Nairobi, Kenya  
+🌐 **Portfolio:** https://kentuei-portfolio.vercel.app  
+💼 **LinkedIn:** https://www.linkedin.com/in/ken-kipkirui-tuei-2965271b8  
+📧 **Email:** kentuei05@gmail.com  
+📍 **Location:** Nairobi, Kenya  
 
 ---
 
-> “I build systems that last — not just features that ship.”
+> "Building practical solutions through thoughtful engineering, continuous learning, and purposeful technology."
